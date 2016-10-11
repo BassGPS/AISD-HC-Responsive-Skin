@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <template>Superfish.xslt</template>
+  <scripts>
+    
+  </scripts>
+  <stylesheets>
+    <stylesheet>superfish.css</stylesheet>
+  </stylesheets>
+  <defaultClientOptions>
+    <clientOption name="onShow" value="function() { if ($.browser.msie) this[0].style.removeAttribute('filter'); }" />
+  </defaultClientOptions>
+</manifest>

@@ -1,0 +1,140 @@
+.fullWidth { 
+    min-width: 640px;
+    width: 100%;
+    margin: auto;
+}
+.leftWidth {
+	width:0;
+}
+.rightWidth {
+	width:0;
+}
+.contentWidth {
+    max-width: 1024px;
+    min-width: 640px;
+    width: 100%;
+    box-shadow:0 0 0 transparent;
+}
+.boxTop { 
+    max-width: 1024px;
+    min-width: 640px;
+    width: 100%;
+    height:5px;
+    padding:0;
+}
+.menuWrapper {
+   display: inline-flex;
+   height:100%;
+}
+.logoDiv {
+    padding-bottom: 5px;
+    padding-top:0;
+}
+.outerNav {
+    max-width: 1024px;
+    min-width: 640px;
+ width: 100%;
+    height:100%;
+    padding:0 5px;
+    margin:0;
+    border-radius:0;
+    box-shadow:0 0 0 transparent;
+}
+.nav {
+   float:none;
+   display: inline-block;
+}
+.bannerlineTop {
+display: none;
+}
+.bannerlineBottom {
+display: none;
+}
+.blueBannerSide {	
+}
+.headerWrapper {
+    display: inline-block;
+    overflow: inherit;
+}
+.headerInnerWrapper {
+    max-width: 1024px;
+    min-width: 640px;
+    width: 100%;
+    padding: 0 5px;
+    border-left:0;
+    border-right:0;
+}
+.breadcrumbDiv {
+}
+.breadcrumbsearchWrapper {
+    max-width: 1024px;
+    min-width: 640px;
+    width: 100%;
+}
+.breadcrumbsearchWrapper > div {
+	width: 100%;
+}
+.breadcrumbsearchWrapper:after {
+}
+.dateDiv {
+	display: none !important;
+}
+.search {
+	display: none !important;
+}
+.Toppane { 
+}
+.maincontentDiv {   
+}
+.innerContentPane {
+
+}
+.LeftPane {
+
+}
+.ContentPane {
+}
+.RightPane {
+
+}
+.BottomPane {	
+}
+#siteFooter {
+    height:100%;
+}
+.links {
+}
+.CopyPrivacyTerms {
+}
+.Login, A.Login:link, A.Login:visited, A.Login:active {
+}
+.User, A.User:link, A.User:visited, A.User:active {
+}
+
+/* ------------------ Superfish Menu Styles --------------------*/
+
+.sf-menu {
+}
+.sf-menu li {
+}
+.sf-menu li.current {
+}
+.sf-menu li.current ul li.current {
+}
+.sf-menu a {
+}
+.sf-menu a.sf-with-ul {
+}
+.sf-menu li ul li a {
+}
+.sf-menu li ul li {
+}
+.sf-menu li:hover ul, .sf-menu li.sfHover ul {
+}
+
+/* -------------- Google Calendar Fix --------------*/
+
+.googlecalendar {
+	width: 180px;
+}
+

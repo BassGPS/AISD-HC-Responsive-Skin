@@ -1,0 +1,8 @@
+/* desktop */
+@import url("HCSlateDesktop.css");
+
+/* phone-portrait */
+@import url("HCSlateMobile.css") only screen
+and (min-device-width:240px )
+and (max-device-width: 667px );
+

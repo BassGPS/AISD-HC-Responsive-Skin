@@ -1,0 +1,43 @@
+.siteWrapper {
+    background: #eeeeee none repeat scroll 0 0;
+}
+.outerNav {
+    background: #73238A none repeat scroll 0 0;
+}
+.nav {
+    background: #73238A none repeat scroll 0 0;
+}
+.bannerlineTop {
+    background: #73238A none repeat scroll 0 0;
+    border-bottom: 2px solid white;
+    height: 8px;
+}
+.bannerlineBottom {
+    background: #73238A none repeat scroll 0 0;
+    border-top: 2px solid white;
+    height: 8px;
+}
+.headerWrapper {
+	overflow:hidden;
+	background: #73238A none repeat scroll 0 0;
+}
+
+/* ------------------ Superfish Menu Styles --------------------*/
+
+.sf-menu li {
+    background: #8B2AA7 none repeat scroll 0 0;
+}
+.sf-menu li.current {
+    background: #63137a none repeat scroll 0 0;
+}
+.sf-menu li.current ul li.current {
+    color:white;
+}
+.sf-menu a {
+    border-radius: 10px 5px 0 0;
+    color: white;
+    font-size: 13px;
+    padding: 10px !important;   
+}
+.sf-menu li.current a {
+}

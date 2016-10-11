@@ -1,0 +1,17 @@
+.innerContentPane {
+	margin-left: 31%;
+	width: 69%;
+}
+.LeftPane {
+	margin: 0 0 0 -100%;
+	width:30%;
+}
+@media screen and (max-device-width: 667px) and (min-device-width: 240px) {	.innerContentPane	{
+		width:100%;
+		margin-left: 0;
+}
+	.LeftPane {
+		width:48%;
+		margin:0;
+}
+}

@@ -1,0 +1,13 @@
+/* desktop */
+@import url("HCBlueDesktop.css");
+
+/* phone-portrait */
+@import url("HCBlueMobile.css") only screen
+and (min-device-width:240px )
+and (max-device-width: 667px );
+
+/* Tablets */
+@import url("HCBlueTablet.css") only screen 
+  and (min-device-width: 668px) 
+  and (max-device-width: 1024px);
+
